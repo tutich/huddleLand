@@ -24,9 +24,9 @@ export function Navbar() {
             </div>
 
 
-            <div className="flex gap-x-5 items-center">
+            <div className="flex gap-5 items-center">
 
-                <p className="hidden font-medium text-[#36485C] cursor-pointer lg:block">Open Account</p>
+                <p className="hidden font-medium text-[#36485C] pr-[56px] cursor-pointer lg:block">Open Account</p>
 
 
                 <div className="flex items-center gap-2">
